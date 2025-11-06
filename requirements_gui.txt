@@ -1,0 +1,6 @@
+# PDF 변환기 GUI 앱 빌드에 필요한 패키지
+opendataloader-pdf
+pyinstaller>=5.0
+
+
+
